@@ -1,5 +1,7 @@
 # simple-graphql-example
 
+## Just a simple example of GraphQL
+
 ---
 ## Requirements
 
